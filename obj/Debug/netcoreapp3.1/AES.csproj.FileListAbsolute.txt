@@ -1,0 +1,13 @@
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\bin\Debug\netcoreapp3.1\AES.exe
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\bin\Debug\netcoreapp3.1\AES.deps.json
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\bin\Debug\netcoreapp3.1\AES.runtimeconfig.json
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\bin\Debug\netcoreapp3.1\AES.runtimeconfig.dev.json
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\bin\Debug\netcoreapp3.1\AES.dll
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\bin\Debug\netcoreapp3.1\AES.pdb
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.csprojAssemblyReference.cache
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.AssemblyInfoInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.AssemblyInfo.cs
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.csproj.CoreCompileInputs.cache
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.dll
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.pdb
+D:\university\ANUL 5\SEMESTRUL 1\SI - Securitate Informationala\Laboratoare\Laboratorul 1\AES\AES\obj\Debug\netcoreapp3.1\AES.genruntimeconfig.cache
